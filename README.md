@@ -47,7 +47,7 @@ Apasionado por el desarrollo **Full‑Stack**, la automatización, la **arquitec
 | Proyecto | Enfoque | Estado |
 |---------|---------|--------|
 | [**SmartStock (Full Stack)**](https://github.com/pabloordenes/SmartStock) | Inventario con reportes inteligentes, backend REST, dashboards con minería de datos | 🔄 En desarrollo |
-| **Ahorros Compartidos App** | App colaborativa en Ionic + Firebase para seguimiento financiero | 🧪 Finalizando |
+| [**Ahorros Compartidos App**](https://github.com/pabloordenes/splitmate-app) | App colaborativa en Ionic + Firebase para seguimiento financiero | 🧪 Finalizando |
 | **Sistema de Gestión Académica** | Sistema modular con roles y reportes (alumnos, notas, rendimiento) | 💡 Planificación |
 | **Clasificador de Tickets (IA)** | App de backend con modelo inteligente de asignación de tareas | 📌 En roadmap
 | **Microservicio de Notificaciones** | Arquitectura distribuida, eventos y colas (RabbitMQ o Kafka) | 📌 En roadmap
