@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Pablo Ordenes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-*Estudiante de Ingeniería en Informática (INACAP, Chile)*  
+*Estudiante de Ingeniería en Informática*  
 Apasionado por el desarrollo **Full‑Stack**, la automatización, la **arquitectura backend moderna** y la inteligencia aplicada al negocio.
 
 ---
