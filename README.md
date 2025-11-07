@@ -26,6 +26,7 @@ Mi enfoque es la aplicación de arquitectura limpia (DDD, MVC) y patrones de seg
 ![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-6DB33F?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-5.x-092E20?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=node-dot-js)
 
 ### 📱 Frontend & Móvil
