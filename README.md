@@ -56,4 +56,28 @@ Mi enfoque es la aplicación de arquitectura limpia (DDD, MVC) y patrones de seg
 |---|---|---|---|
 | [**SmartStock (Full Stack)**](https://github.com/pabloordenes/smartstock-backend) | Inventario con reportes (Spring, React, Docker) | `Spring Boot` `React` `Docker` `PostgreSQL` | 🔄 En desarrollo |
 | **App de Recompensas (Móvil)** | Colaboración académica (Ionic, Auth, Sockets) | `Ionic` `Angular` `WebSockets` `Capacitor` | ✅ Completado |
-| [**Splitmate (Móvil)**](https://github.com/pabloordenes/splitmate-app) |
+| [**Splitmate (Móvil)**](https://github.com/pabloordenes/splitmate-app) | App de ahorros con chat en tiempo real | `Ionic` `Angular` `Firebase` `TypeScript` | ✅ Completado |
+| **Microservicio de Notificaciones** | Arquitectura distribuida (backend) | `Spring Boot` `RabbitMQ / Kafka` | 💡 Planificación |
+
+---
+
+## 🎯 En lo que me enfoco
+
+- Diseño de sistemas escalables, mantenibles y documentados.
+- Aplicación de patrones de arquitectura (MVC, capas, DDD).
+- Seguridad primero: implementación de autenticación y autorización (JWT, Spring Security).
+- Creación de entornos de desarrollo portables con contenedores (Docker).
+
+---
+
+## 📫 Contacto
+
+<a href="mailto:pabloordenesu@gmail.com" target="blank"><img align="center"
+          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+          alt="mail" height="30"/></a>
+<a href="https://www.linkedin.com/in/pablo-ordenes-2b8085341/" target="blank"><img align="center"
+          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="linkedin" height="30"/></a>
+<a href="https://github.com/pabloordenes" target="blank"><img align="center"
+          src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+          alt="github" height="30"/></a>
