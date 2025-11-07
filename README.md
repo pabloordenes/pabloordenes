@@ -55,10 +55,10 @@ Mi enfoque es la aplicación de arquitectura limpia (DDD, MVC) y patrones de seg
 
 | Proyecto | Enfoque | Tecnologías Clave | Estado |
 |---|---|---|---|
-| [**SmartStock (Full Stack)**](https://github.com/pabloordenes/SmartStock) | Inventario con reportes (Spring, React, Docker) | `Spring Boot` `React` `Docker` `PostgreSQL` | 🔄 En desarrollo |
-| **App de Recompensas (Móvil)** | Colaboración académica (Ionic, Auth, Sockets) | `Ionic` `Angular` `WebSockets` `Capacitor` | ✅ Completado |
-| [**Splitmate (Móvil)**](https://github.com/pabloordenes/splitmate-app) | App de ahorros con chat en tiempo real | `Ionic` `Angular` `Firebase` `TypeScript` | ✅ Completado |
-| **Microservicio de Notificaciones** | Arquitectura distribuida (backend) | `Spring Boot` `RabbitMQ / Kafka` | 💡 Planificación |
+| [**SmartStock (Full Stack)**](https://github.com/pabloordenes/smartstock-backend) | Inventario (Spring, React, Docker) | `Spring Boot` `React` `Docker` `PostgreSQL` | 🔄 En desarrollo |
+| **WattWise Web** | Gestión energética (Python) | `Django` `Python` `Chart.js` `SQLite` | 🔄 En desarrollo |
+| **App de Recompensas (Móvil)** | Colaboración académica (Ionic, Sockets) | `Ionic` `Angular` `WebSockets` `Capacitor` | ✅ Completado |
+| [**Splitmate (Móvil)**](https://github.com/pabloordenes/splitmate-app) | App de ahorros con chat en tiempo real | `Ionic` `Angular` `Firebase` | ✅ Completado |
 
 ---
 
