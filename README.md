@@ -72,12 +72,26 @@ Mi enfoque es la aplicación de arquitectura limpia (DDD, MVC) y patrones de seg
 
 ## 📫 Contacto
 
+<li>
+
 <a href="mailto:pabloordenesu@gmail.com" target="blank"><img align="center"
           src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
           alt="mail" height="30"/></a>
+
+</li>
+
+<br>
+
+<li>
 <a href="https://www.linkedin.com/in/pablo-ordenes-2b8085341/" target="blank"><img align="center"
           src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="linkedin" height="30"/></a>
+</li>
+
+<br>
+
+<li>
 <a href="https://github.com/pabloordenes" target="blank"><img align="center"
           src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
           alt="github" height="30"/></a>
+</li>
