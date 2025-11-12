@@ -16,7 +16,7 @@ Mi enfoque es la aplicación de arquitectura limpia (DDD, MVC) y patrones de seg
 
 - 🎓 Actualmente en Ingeniería en Informática en INACAP.
 - 🧠 Experiencia en el ecosistema de **Java/Spring** y **Google Cloud/Firebase**.
-- 🛠️ Buscando mi práctica profesional para el verano 2025.
+- 🛠️ Buscando mi práctica profesional para el verano 2026.
 
 ---
 
@@ -33,7 +33,7 @@ Mi enfoque es la aplicación de arquitectura limpia (DDD, MVC) y patrones de seg
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-18-DD0031?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-18+-DD0031?style=for-the-badge&logo=angular)
 ![Ionic](https://img.shields.io/badge/Ionic-8-3880FF?style=for-the-badge&logo=ionic)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)
 
