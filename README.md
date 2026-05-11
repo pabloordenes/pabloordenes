@@ -1,65 +1,55 @@
-<h1 align="center"><b>Hola, soy Pablo Ordenes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Pablo Ordenes</h1>
 
 <p align="center">
-  <b>Software Engineer | Cloud Architect & Backend Developer</b>
+  <b>Backend .NET Developer | Azure Cloud Solutions</b>
   <br/>
-  <i>Especializado en Arquitectura Limpia, Ecosistema .NET, Seguridad Perimetral y Soluciones Cloud.</i>
+  <i>Specializing in Clean Architecture, SaaS Multi-tenant Systems, and Scalable Backend Engineering.</i>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pabloordenes" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pabloordenesu@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/pabloordenes" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pabloordenesu@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
-## 🚀 Acerca de mí
+## About Me
 
-Soy un Ingeniero de Software enfocado en construir sistemas escalables, seguros y mantenibles. Transformo reglas de negocio complejas en arquitecturas robustas, dominando el ciclo completo de desarrollo: desde el aprovisionamiento de infraestructura y seguridad (DevSecOps) hasta la lógica transaccional y el despliegue de aplicaciones móviles.
+As a final-year Software Engineering student, my core technical maturity comes from building production-ready software. I specialize in the .NET ecosystem and Microsoft Azure infrastructure, taking ownership of the software lifecycle. Whether I am designing data-isolation architectures for a multi-tenant SaaS, building custom B2B CRMs, or developing critical components for a corporate ERP, my focus goes beyond making the code compile. I build resilient backends: clean, secure, maintainable architectures that scale intelligently.
 
-- 🔭 **Actualmente enfocado en:** Arquitectura Cloud, Seguridad Perimetral y desarrollo de APIs B2B de alto rendimiento.
-- 🏢 **Experiencia Core:** Modernización de ERPs corporativos (SSO con Entra ID, Entity Framework), aprovisionamiento de infraestructura segura (Hetzner, Cloudflare, ED25519) y diseño Multi-tenant.
-- ☁️ **Ecosistema:** C#, .NET 8/10, Azure, SQL Server, .NET MAUI.
-- 🎓 **Certificaciones:** Microsoft Back-end development with .NET | Foundational C# with Microsoft.
+My daily tech stack revolves around C#, ASP.NET Core, and Entity Framework Core, backed by relational databases like Azure SQL and PostgreSQL. I approach the cloud as an ecosystem, designing native solutions that leverage managed services, unified identity, and solid design patterns to solve complex business bottlenecks.
+
+* **Current Focus:** High-concurrency scenarios, Event-Driven Architectures, and advanced Azure PaaS implementations.
+* **Engineering Mindset:** Passionate about Domain-Driven Design (DDD), SOLID principles, and adhering to strict Clean Code standards.
 
 ---
 
-## 🛠️ Stack Tecnológico Principal
+## Tech Stack & Tools
 
-### 💻 El Núcleo (.NET Ecosystem)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### Backend & Architecture
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208%20/%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### 🔒 Cloud, Infraestructura & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Cloud, Data & Infrastructure
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📚 Versatilidad & Mobile (Frontend Background)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+### Frontend & Mobile
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-## 🏗️ Experiencia y Proyectos Destacados
+## Featured Projects & Engineering Showcases
 
-| Proyecto / Rol | Stack Tecnológico | Enfoque Arquitectónico |
+| Project / Role | Tech Stack | Architectural Focus |
 |---|---|---|
-| **[FixFlow (SaaS Showcase)](#)**<br>Plataforma de gestión de servicios en terreno. | `C#` `.NET 8` `MAUI` `Azure SQL` | **Arquitecto / Full-Stack**<br>Clean Architecture, aislamiento Multi-tenant y aplicación nativa móvil. |
-| **Vektors B2B**<br>Motor transaccional y despliegue Cloud. | `.NET 10` `Hetzner` `Cloudflare` `Linux` | **DevSecOps / Backend**<br>Seguridad perimetral (UFW, ED25519) y protección antibots (Turnstile). |
-| **DGS ERP Core**<br>Modernización de sistema corporativo legacy. | `.NET 8` `EF Core` `Entra ID` `JWT` | **Backend Developer**<br>Refactorización de monolito a capas, Auth SSO unificada. |
-| **Rewardly**<br>App móvil de gamificación estudiantil. | `Ionic` `Angular` `Firebase` | **Mobile / Frontend**<br>Arquitectura Serverless (BaaS) para tiempo real. |
+| **[Corporate Expense API](#)**<br>Enterprise expense management REST API. | `C#` `.NET 8` `MediatR` | **Clean Architecture & CQRS**<br>Domain-Driven Design (DDD), state machine logic for approval workflows. |
+| **[Booking Engine Backend](#)**<br>High-concurrency reservation system. | `EF Core` `Azure Service Bus` | **Event-Driven Architecture**<br>Outbox Pattern, optimistic concurrency control, and asynchronous processing. |
+| **[FixFlow (SaaS Platform)](#)**<br>Field service management system. | `.NET 8` `Azure SQL` `MAUI` | **Multi-tenant Isolation**<br>Data segregation at the database level, PaaS integration, cross-platform mobile client. |
+| **Vektor CRM (Freelance)**<br>Custom B2B lead management engine. | `.NET 10` `Hetzner` `Cloudflare` | **Backend Engineering & Security**<br>Server-side token validation, perimeter hardening (UFW), cryptography (ED25519). |
 
----
-
-## 📈 GitHub Stats
-
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloordenes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloordenes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
